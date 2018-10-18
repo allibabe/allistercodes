@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="androidform.Page1">
+
+
+
+  <MasterDetailPage.Master>
+    <ContentPage Padding="10" BackgroundColor="Yellow" Title="Master">
+      
+        <ContentPage.Content>
+          <StackLayout>
+            <Label Text ="Master Page"/>
+
+
+          <Button Text="Menu 1" BackgroundColor="Red" BorderRadius="8" Clicked="linker" />
+          <Button Text="Menu 2" BackgroundColor="Red" BorderRadius="8"  Clicked="linker2"/>
+        <Button Text="Menu 1" BackgroundColor="Red" BorderRadius="8" Clicked="linker" />
+          <Button Text="Menu 2" BackgroundColor="Red" BorderRadius="8"  Clicked="linker2"/>
+          <Button Text="Menu 1" BackgroundColor="Red" BorderRadius="8" Clicked="linker" />
+          <Button Text="Menu 2" BackgroundColor="Red" BorderRadius="8"  Clicked="linker2"/>
+          <Button Text="Menu 1" BackgroundColor="Red" BorderRadius="8" Clicked="linker" />
+          <Button Text="Menu 2" BackgroundColor="Red" BorderRadius="8"  Clicked="linker2"/>
+          <Button Text="Menu 1" BackgroundColor="Red" BorderRadius="8" Clicked="linker" />
+          <Button Text="Menu 2" BackgroundColor="Red" BorderRadius="8"  Clicked="linker2"/>
+       
+          
+       
+          
+          </StackLayout>
+            
+        </ContentPage.Content>
+    
+    </ContentPage>
+    
+  
+  </MasterDetailPage.Master>
+  
+  <MasterDetailPage.Detail>
+  
+      <ContentPage Padding="10">
+      
+        <ContentPage.Content>
+          <StackLayout>
+            <Label Text ="Master Detail"/>
+          
+          </StackLayout>
+            
+        </ContentPage.Content>
+    
+    </ContentPage>
+    
+  
+  
+  </MasterDetailPage.Detail>
+  
+
+
+
+
+
+
+
+<!--
+    <ContentPage  Icon="man.png" >
+        <ContentPage.Content >
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="hello" />
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage  Icon="account.png" >
+        <ContentPage.Content >
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="hi this is the account page" />
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage  Icon="man.png" >
+        <ContentPage.Content >
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+                <Label Text="this is the third page!" />
+
+                <Button Text="click me " BackgroundColor="Aqua" BorderRadius="8"/>
+
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+-->
+
+</MasterDetailPage>
+    

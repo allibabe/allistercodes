@@ -1,0 +1,15 @@
+C:\Users\Allister\Desktop\androidform\androidform\androidform\bin\Debug\netstandard2.0\androidform.deps.json
+C:\Users\Allister\Desktop\androidform\androidform\androidform\bin\Debug\netstandard2.0\androidform.dll
+C:\Users\Allister\Desktop\androidform\androidform\androidform\bin\Debug\netstandard2.0\androidform.pdb
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.csproj.CoreCompileInputs.cache
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.AssemblyInfoInputs.cache
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.AssemblyInfo.cs
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.dll
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.pdb
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\androidform.csprojAssemblyReference.cache
+C:\Users\Allister\Desktop\androidform\androidform\androidform\obj\Debug\netstandard2.0\Page3.xaml.g.cs
